@@ -1,4 +1,4 @@
-You are in a project directory. Run compile_project.sh.
+You are in a project directory. Run compile_project.sh or run_project.sh.
 balls is an example of a project.
 
 All output is in the build directory.
